@@ -1,0 +1,25 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "1st cypress tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OksanaTarun/1st-cypress.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "OksanaTarun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OksanaTarun/1st-cypress/issues"
+  },
+  "homepage": "https://github.com/OksanaTarun/1st-cypress#readme",
+  "devDependencies": {
+    "cypress": "^12.1.0"
+  }
+}
